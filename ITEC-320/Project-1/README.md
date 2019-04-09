@@ -28,7 +28,7 @@ $ gnatmake hiring.adb
 $ ./hiring < hiring_data.txt
 ```
 
-**For Verbose Output**
+* For Verbose Output
 ```
 $ gcc -c hiring.adb
 $ gnatmake hiring.adb
