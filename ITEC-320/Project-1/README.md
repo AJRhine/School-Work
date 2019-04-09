@@ -1,5 +1,4 @@
 # Project #1
-* * *
 **How To Run:**
 
 For Non-Verbose Output
