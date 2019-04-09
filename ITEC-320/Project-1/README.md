@@ -2,9 +2,8 @@
 
 * * *
 
-**How To Run:**
+**How To Run: Commandline Guide**
 
-Commandline Guide
 * For Non-Verbose Output
 ```
 gcc -c hiring.adb
@@ -21,7 +20,7 @@ hiring -v < hiring_data.txt
 
 * * *
 
-Unix Guide
+**How To Run: Unix Guide**
 * For Non-Verbose Output
 ```
 $ gcc -c hiring.adb
