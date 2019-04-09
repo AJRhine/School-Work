@@ -19,6 +19,8 @@ gnatmake hiring.adb
 hiring -v < hiring_data.txt
 ```
 
+* * *
+
 Unix Guide
 * For Non-Verbose Output
 ```
