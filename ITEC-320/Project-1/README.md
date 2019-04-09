@@ -12,6 +12,7 @@
 ```
 
     * For Verbose Output
+    
 ```
     gcc -c hiring.adb
     gnatmake hiring.adb
@@ -27,6 +28,7 @@
 ```
 
     * For Verbose Output
+    
 ```
     $ gcc -c hiring.adb
     $ gnatmake hiring.adb
