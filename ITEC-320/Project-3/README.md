@@ -7,7 +7,7 @@
 ```
 gcc -c ham2.adb
 gnatmake ham2.adb
-ham2 < ham2.data.1.txt
+ham2 < data.txt
 ```
 
 
@@ -17,7 +17,7 @@ ham2 < ham2.data.1.txt
 ```
 $ gcc -c ham2.adb
 $ gnatmake ham2.adb
-$ ./ham2 < ham2.data.1.txt
+$ ./ham2 < data.txt
 ```
 
 * * *
